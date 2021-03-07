@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1563940332 source:h:\igraphics-master\igraphics-master\picturedemo.cpp
+	"iGraphics.h"
+
+1608477409 h:\igraphics-master\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563940332 h:\igraphics-master\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 h:\igraphics-master\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1602927104 source:h:\igraphics-master\igraphics-master\imain.cpp
+	"iGraphics.h"
+
+1604755027 source:h:\igraphics-master\igraphics-master\curve.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+
+1563940332 source:h:\igraphics-master\igraphics-master\watch.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+
+1563940332 source:h:\igraphics-master\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563940332 h:\igraphics-master\igraphics-master\opengl\include\gl.h
+
+1608477409 source:h:\igraphics-master\igraphics-master\func.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	"my_header.h"
+	"my_graphics.h"
+
+1608475718 h:\igraphics-master\igraphics-master\my_header.h
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
+1608477424 source:h:\igraphics-master\igraphics-master\main.cpp
+	<stdio.h>
+	"my_header.h"
+	"iGraphics.h"
+
+1607978011 h:\igraphics-master\igraphics-master\my_graphics.h
+
+1608477409 source:h:\igraphics-master\igraphics-master\menu.cpp
+	"my_graphics.h"
+	"my_header.h"
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+
+1608483063 source:h:\igraphics-master\1905007\main.cpp
+	<stdio.h>
+	"my_header.h"
+	"iGraphics.h"
+
+1608475718 h:\igraphics-master\1905007\my_header.h
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
+1608477409 h:\igraphics-master\1905007\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563940332 h:\igraphics-master\1905007\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563940332 h:\igraphics-master\1905007\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1608477409 source:h:\igraphics-master\1905007\menu.cpp
+	"my_graphics.h"
+	"my_header.h"
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+	<time.h>
+
+1607978011 h:\igraphics-master\1905007\my_graphics.h
+
+1608483029 source:h:\igraphics-master\1905007\func.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	"my_header.h"
+	"my_graphics.h"
+
